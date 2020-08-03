@@ -1,6 +1,6 @@
 # mealsApp
 
-A new Flutter project.
+Flutter based reciepe lookup app.
 
 ## Getting Started
 
